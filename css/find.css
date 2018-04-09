@@ -1,0 +1,208 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 561407 */
+    src: url('https://at.alicdn.com/t/font_561407_nlh0m48crwg919k9.eot');
+    src: url('https://at.alicdn.com/t/font_561407_nlh0m48crwg919k9.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_561407_nlh0m48crwg919k9.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_561407_nlh0m48crwg919k9.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_561407_nlh0m48crwg919k9.svg#iconfont') format('svg');
+}
+body{
+    background-color: #f5f5f5;
+}
+.title{
+    width: 100%;
+    height: 1.8rem;
+    background-color: #009cff;
+    padding: 0 0.5rem;
+    font-size: 0.45rem;
+    line-height: 1.8rem;
+    color: #fff;
+}
+.content{
+    width: 100%;
+    height: 15.9rem;
+    overflow: scroll;
+}
+.content_top{
+    width: 100%;
+    height: 6.06rem;
+    margin-bottom: 0.1rem;
+}
+.content_list{
+    width: 100%;
+    background-color: #ededed;
+    padding-top: 0.03rem 0;
+    margin-top: 0.1rem;
+    overflow: hidden;
+}
+.content_listcontent{
+    width: 5.38rem;
+    height: 2.3rem;
+    margin-right: 0.03rem;
+    margin-bottom: 0.03rem;
+    background-color:#fff;
+    float: left;
+    padding: 0.5rem 0.45rem;
+}
+.content_list1{
+    margin-right: 0;
+}
+.content_listleft{
+    height: 1.3rem;
+    float: left;
+}
+.list_title{
+    font-size: 0.44rem;
+    color: #ff9900;
+}
+.list_content{
+    margin-top: 0.2rem;
+    font-size: 0.3rem;
+    color: #999;
+}
+.list_img{
+    width: 1.3rem;
+    height: 1.3rem;
+    float: right;
+}
+.img{
+    width: 100%;
+    height: 3rem;
+    margin-top: 0.35rem;
+    border-top: 0.03rem solid #ededed;
+    border-bottom: 0.03rem solid #ededed;
+}
+.tuijian{
+    width: 100%;
+    padding: 0 0.3rem;
+    background-color: #fff;
+}
+.tuijian_top{
+    width: 100%;
+    height: 1.9rem;
+    padding-top: 0.6rem;
+}
+.tuijian_title{
+    font-size: 0.48rem;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+}
+.tuijian_text{
+    font-size: 0.28rem;
+    color: #999;
+    text-align: center;
+}
+.tuijian_bottom{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+.tuijian_item{
+    width: 5rem;
+    height: 7.6rem;
+    border: 0.03rem solid #eee;
+    margin-bottom: 0.27rem;
+}
+.tuijian_img{
+    width: 100%;
+    height: 5.2rem;
+}
+
+.tuijian_content{
+    width: 100%;
+    height: 2.65rem;
+    padding: 0 0.25rem;
+}
+.tuijian_dian{
+    width: 100%;
+    height: 1.72rem;
+    border-bottom: 0.03rem dashed #ccc;
+    padding: 0.19rem 0;
+}
+.tuijian_name{
+    color: #333;
+    font-size: 0.38rem;
+    font-weight: bold;
+}
+.tuijian_xiao{
+    color: #666;
+    font-size: 0.24rem;
+    margin-top: 0.18rem;
+}
+.tuijian_jia{
+    color: #ff6000;
+    font-size: 0.3rem;
+    font-weight: bold;
+    margin-top: 0.13rem;
+}
+.tuijian_yuanjia{
+    color: #999;
+    font-size: 0.22rem;
+    text-decoration: line-through;
+}
+.tuijian_tedian{
+    font-family: 'iconfont';
+    color: #bbb;
+    font-size: 0.28rem;
+    margin-top: 0.3rem;
+}
+
+footer{
+    width: 100%;
+    height: 1.1rem;
+    position: fixed;
+    bottom: 0;
+    left:0;
+    background: #f5f5f5;
+}
+.footer_nav{
+    float: left;
+
+}
+.footer_nav1{
+    margin-left: 0.4rem;
+}
+.footer_nav .nav_icon{
+    font-family: 'iconfont';
+    margin-top: -0.1rem;
+    display: block;
+    margin-left: 1.4rem;
+    color:#b4b4b4;
+    font-size: 0.7rem;
+
+}
+.footer_nav .nav_icon1{
+    font-size: 0.7rem;
+    margin-top: -0.1rem;
+
+}
+.footer_nav .nav_wenzi{
+    color:#b4b4b4;
+    font-size: 0.3rem;
+    font-weight: normal;
+    margin-left: 1.6rem;
+    margin-top: -0.05rem;
+}
+.footer_nav .nav_wenzi1{
+    margin-top: -0.05rem;
+    margin-left: 1.4rem;
+}
+.footer_nav .nav_icon2{
+    font-size: 0.7rem;
+    margin-top: -0.1rem;
+}
+.footer_nav .nav_wenzi2{
+    margin-top: -0.1rem;
+    margin-left: 1.4rem;
+}
+.footer_nav .nav_icon3{
+    font-size: 0.7rem;
+    margin-top: -0.1rem;
+}
+.footer_nav .nav_wenzi3{
+    margin-top: -0.1rem;
+    margin-left: 1.4rem;
+}
+

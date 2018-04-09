@@ -1,0 +1,139 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 561407 */
+    src: url('https://at.alicdn.com/t/font_561407_zkz4fimw9v9jatt9.eot');
+    src: url('https://at.alicdn.com/t/font_561407_zkz4fimw9v9jatt9.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_561407_zkz4fimw9v9jatt9.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_561407_zkz4fimw9v9jatt9.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_561407_zkz4fimw9v9jatt9.svg#iconfont') format('svg');
+}
+.head{
+    width: 100%;
+    height: 2.28rem;
+    background-color: blue;
+    color: #fff;
+    /*line-height: 2.28rem;*/
+
+}
+.head .icon{
+    font-family: 'iconfont';
+    font-size:0.2rem;
+    margin-left: 0.6rem;
+    margin-right: 1.1rem;
+}
+.head span{
+    font-size: 0.18rem;
+    margin-top: 1.08rem;
+    display: inline-block;
+
+}
+.head .pwdlogin{
+    float: right;
+    margin-right: 0.6rem;
+}
+.login{
+    width: 100%;
+    margin-top: 0.4rem;
+    /*background-color: #007aff;*/
+    position: relative;
+}
+.login input{
+    width: 100%;
+    height: 1.44rem;
+    border: 0.01rem solid #ccc;
+    padding-left: 0.45rem;
+    line-height: 1.44rem;
+    font-size: 0.2rem;
+}
+.check{
+    width: 3rem;
+    height: 1.18rem;
+    position: absolute;
+    right: 0.25rem;
+    top:0.35rem;
+    background-color: #D5D4D2;
+    font-size: 0.45rem;
+    line-height: 1.18rem;
+    text-align: center;
+    color: #fff;
+}
+.tip{
+    margin-top: 0.5rem;
+    padding-left: 0.45rem;
+    width: 100%;
+    font-size: 0.42rem;
+    color: #666666;
+}
+.main_login{
+
+    width: 10.2rem;
+    margin: 0 auto;
+    height: 1.44rem;
+    background-color: #4DC060;
+    color: #fff;
+    font-size: 0.5rem;
+    line-height: 1.44rem;
+    text-align: center;
+    margin-left:0.4rem;
+    margin-top: 0.82rem;
+
+}
+footer{
+    position: absolute;
+    bottom: 1.1rem;
+}
+.line{
+    width: 0.8rem;
+    height: 0.05rem;
+    margin-left: 3rem;
+    background-color:#999999;
+    float: left;
+   margin-top: 0.2rem;
+}
+.third{
+    font-size: 0.36rem;
+    float: left;
+    margin-left: 0.8rem;
+    color: #999999;
+
+}
+.line1{
+    margin-left: 0.8rem;
+}
+.other_login{
+    width: 100%;
+    float: left;
+    padding-top: 0.8rem;
+}
+.other_login .icon{
+    font-family: 'iconfont';
+    font-size:1rem;
+    margin-right: 1.4rem;
+
+}
+.other_login .wenzi{
+    float: left;
+    font-size: 0.33rem;
+    margin-right: 2.1rem;
+    margin-top: 0.5rem;
+    color: #999999;
+}
+.other_login .icon1{
+    margin-left: 0.85rem;
+    color: #40BD3F;
+}
+.other_login .icon2{
+    color: #12B7F5;
+}
+.other_login .icon3{
+    color: #E6162D;
+}
+.other_login .icon4{
+    margin-right: 0.85rem;
+    color: #FC642A;
+}
+.other_login .wenzi1{
+    margin-left: 0.9rem;
+}
+.other_login .wenzi4{
+    margin-right: 0.9rem;
+}
