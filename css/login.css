@@ -16,12 +16,14 @@
 }
 .head .icon{
     font-family: 'iconfont';
-    font-size:0.2rem;
+    font-size:0.5rem;
     margin-left: 0.6rem;
     margin-right: 1.1rem;
+    color:#fff;
+    font-weight: bold;
 }
 .head span{
-    font-size: 0.18rem;
+    font-size: 0.36rem;
     margin-top: 1.08rem;
     display: inline-block;
 
@@ -29,6 +31,7 @@
 .head .pwdlogin{
     float: right;
     margin-right: 0.6rem;
+
 }
 .login{
     width: 100%;

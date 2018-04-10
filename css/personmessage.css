@@ -1,0 +1,135 @@
+@font-face {
+    font-family: 'iconfont';  /* project id 561407 */
+    src: url('https://at.alicdn.com/t/font_561407_zkz4fimw9v9jatt9.eot');
+    src: url('https://at.alicdn.com/t/font_561407_zkz4fimw9v9jatt9.eot?#iefix') format('embedded-opentype'),
+    url('https://at.alicdn.com/t/font_561407_zkz4fimw9v9jatt9.woff') format('woff'),
+    url('https://at.alicdn.com/t/font_561407_zkz4fimw9v9jatt9.ttf') format('truetype'),
+    url('https://at.alicdn.com/t/font_561407_zkz4fimw9v9jatt9.svg#iconfont') format('svg');
+}
+/*头部*/
+header{
+    height: 1.13rem;
+    background-color: #00a6ff;
+    position: absolute;
+    left:0;
+    top:0;
+    width: 100%;
+}
+header .icon_wenzi{
+    font-size: 0.36rem;
+    color:#fff;
+    line-height: 1.13rem;
+    margin-left: 0.5rem;
+    display: block;
+    float: left;
+
+}
+header .icon{
+    font-family: 'iconfont';
+    margin-left: 0.34rem;
+    font-size: 0.6rem;
+    display: block;
+    line-height: 1.13rem;
+    color:#fff;
+    float: left;
+}
+.dikuang{
+    height: 0.19rem;
+    background-color: #f7f7f7;
+    border:0.01rem solid #f1eef1;
+    border-right: none;
+    border-left:none;
+}
+/*内容*/
+main{
+    position: absolute;
+    top:1.13rem;
+    width: 100%;
+}
+.head_photo{
+    height:1.43rem;
+    border-bottom: 0.01rem solid #f1eef1;
+}
+.head_photo .photo_wenzi{
+    color:#2a2b2a;
+    font-size: 0.32rem;
+    line-height: 1.43rem;
+    margin-left: 0.34rem;
+    display: block;
+    font-weight: bold;
+    float: left;
+}
+.head_photo img{
+    width: 1.21rem;
+    height: 1.21rem;
+    display: block;
+    float: right;
+    margin-right: 0.14rem;
+    margin-top: 0.11rem;
+}
+.username{
+    height: 0.99rem;
+    border-bottom: 0.01rem solid #dcd9dc;
+}
+.username .name_wenzi{
+    color:#2a2b2a;
+    font-size: 0.32rem;
+    line-height: 0.99rem;
+    margin-left: 0.34rem;
+    display: block;
+    font-weight: bold;
+    float: left;
+}
+.username .ename{
+    float: right;
+    font-size: 0.26rem;
+    color:#c9c5c9;
+    font-weight: bold;
+    margin-right: 0.3rem;
+    line-height: 0.99rem;
+    display: block;
+}
+.fix_user{
+    height:0.97rem;
+    border-bottom: 0.01rem solid #f0eff0;
+}
+.fix_user span{
+    color:#e2dfe2;
+    font-size: 0.28rem;
+    margin-left: 0.34rem;
+    line-height: 0.97rem;
+    display: block;
+    font-weight: bold;
+}
+.phone{
+    height: 0.97rem;
+    border-bottom: 0.01rem solid #f0eff0;
+}
+.phone img{
+    width: 0.49rem;
+    height: 0.77rem;
+    display: block;
+    margin-left: 0.34rem;
+    margin-top: 0.1rem;
+    float: left;
+}
+.phone .phone_wenzi{
+    color:#2a2b2a;
+    font-size: 0.32rem;
+    margin-left: 0.42rem;
+    line-height: 0.97rem;
+    float: left;
+    font-weight: bold;
+}
+.phone .phone_num{
+    float: right;
+    margin-right: 0.3rem;
+    color:#c9c5c9;
+    font-size: 0.28rem;
+    display: block;
+    font-weight: bold;
+    line-height: 0.97rem;
+}
+.phone .phone_num1{
+    color:#1a93ff;
+}
